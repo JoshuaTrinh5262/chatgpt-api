@@ -2,6 +2,8 @@
 
 run pip install -r requirements.txt to install requured package
 
+change .env_example to .env and add your Api_key there
+
 #run
 
 api.py and 03_chatgpt_website.py
